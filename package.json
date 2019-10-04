@@ -1,0 +1,24 @@
+{
+  "name": "all-the-news",
+  "version": "1.0.0",
+  "description": "NBA News Scraping",
+  "main": "server.js",
+  "dependencies": {
+    "method-override": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianctwo/All-the-News.git"
+  },
+  "author": "Adrian Situ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianctwo/All-the-News/issues"
+  },
+  "homepage": "https://github.com/adrianctwo/All-the-News#readme"
+}
